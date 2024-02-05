@@ -1,0 +1,11 @@
+{
+    "name": "YippeeReloaded",
+    "author": "Grub4K",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Grub4K/YippeeReloaded",
+    "description": "Replace the Hoarder Bug sfx with your own sounds!",
+    "dependencies": [
+        "AinaVT-LethalConfig-1.3.4",
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
